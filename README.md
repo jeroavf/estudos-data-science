@@ -27,13 +27,12 @@ Repositório para o plano de estudo ["Rocky Balboa"](http://www.imdb.com/title/t
 | 09 | [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) |[Coursera](https://www.coursera.org)| [  ][*](#no-certificate)| `Jeff Leek, Roger D. Peng,  Brian Caffo` | |
 | 10 | [R Programming](https://www.coursera.org/learn/r-programming) |[Coursera](https://www.coursera.org)| [  ][*](#no-certificate)| `Jeff Leek, Roger D. Peng,  Brian Caffo` | |
 | 11 | [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) |[Coursera](https://www.coursera.org)| [  ][*](#no-certificate)| `Jeff Leek, Roger D. Peng,  Brian Caffo` | |
-| 12 | [Data Wrangling with MongoDB](https://br.udacity.com/course/data-wrangling-with-mongodb--ud032/) |[Udacity](https://udacity.com| [  ][*](#no-certificate)| `Gundega Dekena,  Shannon Bradshaw` | |
+| 12 | [Data Wrangling with MongoDB](https://br.udacity.com/course/data-wrangling-with-mongodb--ud032/) |[Udacity](https://udacity.com)| [  ][*](#no-certificate)| `Gundega Dekena,  Shannon Bradshaw` | |
 | 13 | [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) |[Coursera](https://www.coursera.org)| [  ][*](#no-certificate)| `Jeff Leek, Roger D. Peng,  Brian Caffo` | |
 | 14 | [Reproducible Research](https://www.coursera.org/learn/reproducible-research) |[Coursera](https://www.coursera.org)| [  ][*](#no-certificate)| `Jeff Leek, Roger D. Peng,  Brian Caffo` | |
 | 15 | [Regression Models](https://www.coursera.org/learn/regression-models) |[Coursera](https://www.coursera.org)| [  ][*](#no-certificate)| `Jeff Leek, Roger D. Peng,  Brian Caffo` | |
 | 16 | [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) |[Coursera](https://www.coursera.org)| [  ][*](#no-certificate)| `Jeff Leek, Roger D. Peng,  Brian Caffo` | |
-| 17 | [Deep Learning](https://br.udacity.com/course/deep-learning--ud730/) |[Udacity](https://udacity.com| [  ][*](#no-certificate)| `Vincent Vanhoucke, Arpan Chakraborty` | |
-| 18 | [Data Wrangling with MongoDB](https://br.udacity.com/course/data-wrangling-with-mongodb--ud032/) |[Coursera](https://udacity.com| [  ][*](#no-certificate)| `Jeff Leek, Roger D. Peng,  Brian Caffo` | |
+| 17 | [Deep Learning](https://br.udacity.com/course/deep-learning--ud730/) |[Udacity](https://udacity.com)| [  ][*](#no-certificate)| `Vincent Vanhoucke, Arpan Chakraborty` | |
 | 19 | [Developing Data Products](https://www.coursera.org/learn/data-products) |[Coursera](https://www.coursera.org)| [  ][*](#no-certificate)| `Jeff Leek, Roger D. Peng,  Brian Caffo` | |
 | 20 | [Data Science Capstone](https://www.coursera.org/learn/data-science-project) |[Coursera](https://www.coursera.org)| [  ][*](#no-certificate)| `Jeff Leek, Roger D. Peng,  Brian Caffo` | |
 
